@@ -91,5 +91,3 @@ Each defines how branches are used, how changes are merged, and how releases are
 
 ## 8. What is the use of .gitignore?
 The `.gitignore` file specifies intentionally untracked files that Git should ignore. For example, it can exclude log files, build artifacts, or environment-specific files that should not be committed to the repository.
-
----
